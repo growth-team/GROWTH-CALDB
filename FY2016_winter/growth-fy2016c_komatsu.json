@@ -1,0 +1,22 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2016c"
+        },
+        {
+            "OBS_SITE":"Komatsu High School"
+        },
+        {
+            "DET_CH0":"bgo-sakurai-12"
+        },
+        {
+            "DET_CH1":"NONE"
+        },
+        {
+            "INS_DATE":"2016-10-13"
+        },
+        {
+            "RMV_DATE":"2017-04-14"
+        }
+    ]
+}

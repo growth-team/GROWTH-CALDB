@@ -1,0 +1,22 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2016h"
+        },
+        {
+            "OBS_SITE":"Kanazawa University Noto satellite"
+        },
+        {
+            "DET_CH0":"bgo-01-cylin-lg-riken"
+        },
+        {
+            "DET_CH1":"plastic-05-hongo"
+        },
+        {
+            "INS_DATE":"2016-12-02"
+        },
+        {
+            "RMV_DATE":"NONE"
+        }
+    ]
+}

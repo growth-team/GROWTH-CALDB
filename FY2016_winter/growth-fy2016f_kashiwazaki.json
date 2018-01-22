@@ -1,0 +1,22 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2016f"
+        },
+        {
+            "OBS_SITE":"Kashiwazaki Power Plant HQ"
+        },
+        {
+            "DET_CH0":"bgo-sakurai-15"
+        },
+        {
+            "DET_CH1":"NONE"
+        },
+        {
+            "INS_DATE":"2016-12-05"
+        },
+        {
+            "RMV_DATE":"NONE"
+        }
+    ]
+}

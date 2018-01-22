@@ -1,0 +1,28 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2016t"
+        },
+        {
+            "OBS_SITE":"Kashiwazaki Power Plant EAB"
+        },
+        {
+            "DET_CH0":"bgo-sakurai-05"
+        },
+        {
+            "DET_CH1":"bgo-sakurai-06"
+        },
+        {
+            "DET_CH2":"bgo-sakurai-07"
+        },
+        {
+            "DET_CH3":"bgo-sakurai-08"
+        },
+        {
+            "INS_DATE":"2016-11-11"
+        },
+        {
+            "RMV_DATE":"NONE"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2017v"
+        },
+        {
+            "OBS_SITE":"Kashiwazaki EAB"
+        },
+        {
+            "DET_CH0":"BGO-SAKURAI"
+        },
+        {
+            "DET_CH1":"NONE"
+        },
+        {
+            "DET_CH2":"NONE"
+        },
+        {
+            "DET_CH3":"GPS_PPS"
+        },
+        {
+            "INS_DATE":"2017-11-13"
+        },
+        {
+            "RMV_DATE":"NONE"
+        }
+    ]
+}
