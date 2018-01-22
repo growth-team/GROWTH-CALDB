@@ -1,0 +1,22 @@
+{
+    "detectorInfo":[
+        {
+            "detectorID":"growth-fy2015a"
+        },
+        {
+            "observation Site":"Kanazawa University"
+        },
+        {
+            "detector0":"None (ch0)"
+        },
+        {
+            "detector1":"BGO (ch1)"
+        },
+        {
+            "installationDate":"2015-11-xx"
+        },
+        {
+            "removalDate":"2016-02-xx"
+        }
+    ]
+}

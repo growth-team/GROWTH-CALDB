@@ -1,0 +1,22 @@
+{
+    "detectorInfo":[
+        {
+            "detectorID":"growth-fy2015b"
+        },
+        {
+            "observation Site":"Norikura Observatory"
+        },
+        {
+            "detector0":"5mm Plastic (ch0)"
+        },
+        {
+            "detector1":"2 inch Cylindal BGO (ch1)"
+        },
+        {
+            "installationDate":"2016-07-10"
+        },
+        {
+            "removalDate":"2016-09-28"
+        }
+    ]
+}
