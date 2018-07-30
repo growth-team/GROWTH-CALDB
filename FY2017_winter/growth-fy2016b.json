@@ -1,0 +1,28 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2016b"
+        },
+        {
+            "OBS_SITE":"Kanazawa University High School"
+        },
+        {
+            "DET_CH0":"bgo-sakurai-11"
+        },
+        {
+            "DET_CH1":"NONE"
+        },
+        {
+            "DET_CH2":"NONE"
+        },
+        {
+            "DET_CH3":"NONE"
+        },
+        {
+            "INS_DATE":"2017-11-27"
+        },
+        {
+            "RMV_DATE":"2018-03-13"
+        }
+    ]
+}
