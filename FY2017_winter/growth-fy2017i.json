@@ -4,7 +4,7 @@
             "DET_ID":"growth-fy2017i"
         },
         {
-            "OBS_SITE":"Ishikawa Plating Industry HQ"
+            "OBS_SITE":"Ishikawa Plating Industry Senkoji"
         },
         {
             "DET_CH0":"CLEO-CsI"
@@ -22,7 +22,7 @@
             "INS_DATE":"2017-11-29"
         },
         {
-            "RMV_DATE":"NONE"
+            "RMV_DATE":"2018-03-09"
         }
     ]
 }
