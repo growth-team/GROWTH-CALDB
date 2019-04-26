@@ -1,13 +1,13 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-fy2017v"
+            "DET_ID":"growth-tac010"
         },
         {
-            "OBS_SITE":"Kashiwazaki EAB"
+            "OBS_SITE":"Kanazawa Institute of Technology"
         },
         {
-            "DET_CH0":"BGO-SAKURAI"
+            "DET_CH0":"CsI"
         },
         {
             "DET_CH1":"NONE"
@@ -16,13 +16,13 @@
             "DET_CH2":"NONE"
         },
         {
-            "DET_CH3":"GPS_PPS"
+            "DET_CH3":"NONE"
         },
         {
-            "INS_DATE":"2017-11-13"
+            "INS_DATE":"2018-12-21"
         },
         {
-            "RMV_DATE":"2018-03-19"
+            "RMV_DATE":"2018-03-27"
         }
     ]
 }

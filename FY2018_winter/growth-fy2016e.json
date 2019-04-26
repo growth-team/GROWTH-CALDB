@@ -1,13 +1,13 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-fy2017v"
+            "DET_ID":"growth-fy2016e"
         },
         {
-            "OBS_SITE":"Kashiwazaki EAB"
+            "OBS_SITE":"Kanazawa University"
         },
         {
-            "DET_CH0":"BGO-SAKURAI"
+            "DET_CH0":"BGO"
         },
         {
             "DET_CH1":"NONE"
@@ -16,13 +16,13 @@
             "DET_CH2":"NONE"
         },
         {
-            "DET_CH3":"GPS_PPS"
+            "DET_CH3":"NONE"
         },
         {
-            "INS_DATE":"2017-11-13"
+            "INS_DATE":"2018-11-08"
         },
         {
-            "RMV_DATE":"2018-03-19"
+            "RMV_DATE":"NONE"
         }
     ]
 }
