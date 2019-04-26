@@ -1,0 +1,28 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-tac013"
+        },
+        {
+            "OBS_SITE":"Uchinada Wang Station"
+        },
+        {
+            "DET_CH0":"CsI"
+        },
+        {
+            "DET_CH1":"NONE"
+        },
+        {
+            "DET_CH2":"NONE"
+        },
+        {
+            "DET_CH3":"NONE"
+        },
+        {
+            "INS_DATE":"NONE"
+        },
+        {
+            "RMV_DATE":"NONE"
+        }
+    ]
+}
