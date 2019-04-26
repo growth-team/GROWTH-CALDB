@@ -1,0 +1,28 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2016e"
+        },
+        {
+            "OBS_SITE":"Kanazawa University"
+        },
+        {
+            "DET_CH0":"BGO"
+        },
+        {
+            "DET_CH1":"NONE"
+        },
+        {
+            "DET_CH2":"NONE"
+        },
+        {
+            "DET_CH3":"NONE"
+        },
+        {
+            "INS_DATE":"2018-11-08"
+        },
+        {
+            "RMV_DATE":"NONE"
+        }
+    ]
+}

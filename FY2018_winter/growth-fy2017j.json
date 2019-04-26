@@ -1,0 +1,28 @@
+{
+    "detectorInfo":[
+        {
+            "DET_ID":"growth-fy2017j"
+        },
+        {
+            "OBS_SITE":"Tokyo Skytree"
+        },
+        {
+            "DET_CH0":"CLEO-CsI"
+        },
+        {
+            "DET_CH1":"EJ-270"
+        },
+        {
+            "DET_CH2":"NONE"
+        },
+        {
+            "DET_CH3":"GPS_PPS"
+        },
+        {
+            "INS_DATE":"2018-05-21"
+        },
+        {
+            "RMV_DATE":"NONE"
+        }
+    ]
+}
