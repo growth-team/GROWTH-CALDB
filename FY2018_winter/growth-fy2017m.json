@@ -1,13 +1,13 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-tac006"
+            "DET_ID":"growth-fy2017m"
         },
         {
-            "OBS_SITE":"Uchinada (by Kamogawa)"
+            "OBS_SITE":"KIT Nonoichi Campus"
         },
         {
-            "DET_CH0":"CsI"
+            "DET_CH0":"CLEO-CsI"
         },
         {
             "DET_CH1":"NONE"
@@ -16,13 +16,13 @@
             "DET_CH2":"NONE"
         },
         {
-            "DET_CH3":"NONE"
+            "DET_CH3":"GPS_PPS"
         },
         {
-            "INS_DATE":"2018-10-05"
+            "INS_DATE":"2018-12-22"
         },
         {
-            "RMV_DATE":"2019-03-01"
+            "RMV_DATE":"2019-03-27"
         }
     ]
 }
