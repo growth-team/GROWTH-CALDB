@@ -1,25 +1,25 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-fy2016t"
+            "DET_ID":"growth-fy2016g"
         },
         {
-            "OBS_SITE":"Kashiwazaki EAB"
+            "OBS_SITE":"Kashiwazaki MP6"
         },
         {
             "DET_CH0":"BGO-SAKURAI"
         },
         {
-            "DET_CH1":"BGO-SAKURAI"
+            "DET_CH1":"HXD-GSO"
         },
         {
-            "DET_CH2":"BGO-SAKURAI"
+            "DET_CH2":"NONE"
         },
         {
             "DET_CH3":"GPS_PPS"
         },
         {
-            "INS_DATE":"2018-11-27"
+            "INS_DATE":"2018-11-26"
         },
         {
             "RMV_DATE":"2019-03-22"

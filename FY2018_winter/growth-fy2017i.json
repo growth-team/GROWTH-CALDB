@@ -1,16 +1,16 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-fy2017j"
+            "DET_ID":"growth-fy2017i"
         },
         {
-            "OBS_SITE":"Ishikawa Plating Industry Senkoji"
+            "OBS_SITE":"Ishikawa Plating Industry Second"
         },
         {
             "DET_CH0":"CLEO-CsI"
         },
         {
-            "DET_CH1":"EJ-270"
+            "DET_CH1":"NONE"
         },
         {
             "DET_CH2":"NONE"

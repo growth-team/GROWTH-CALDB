@@ -1,25 +1,25 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-fy2017j"
+            "DET_ID":"growth-fy2016d"
         },
         {
-            "OBS_SITE":"Ishikawa Plating Industry Senkoji"
+            "OBS_SITE":"Science Hills Komatsu"
         },
         {
-            "DET_CH0":"CLEO-CsI"
+            "DET_CH0":"bgo-sakurai-13"
         },
         {
-            "DET_CH1":"EJ-270"
+            "DET_CH1":"NONE"
         },
         {
             "DET_CH2":"NONE"
         },
         {
-            "DET_CH3":"GPS_PPS"
+            "DET_CH3":"NONE"
         },
         {
-            "INS_DATE":"2018-11-06"
+            "INS_DATE":"2018-11-08"
         },
         {
             "RMV_DATE":"2019-03-27"

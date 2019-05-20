@@ -1,28 +1,28 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-fy2017j"
+            "DET_ID":"growth-tac015"
         },
         {
-            "OBS_SITE":"Ishikawa Plating Industry Senkoji"
+            "OBS_SITE":"Ishikama Mekki Main"
         },
         {
-            "DET_CH0":"CLEO-CsI"
+            "DET_CH0":"CsI"
         },
         {
-            "DET_CH1":"EJ-270"
+            "DET_CH1":"NONE"
         },
         {
             "DET_CH2":"NONE"
         },
         {
-            "DET_CH3":"GPS_PPS"
+            "DET_CH3":"NONE"
         },
         {
             "INS_DATE":"2018-11-06"
         },
         {
-            "RMV_DATE":"2019-03-27"
+            "RMV_DATE":"2019-03-26"
         }
     ]
 }

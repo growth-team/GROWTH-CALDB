@@ -1,13 +1,13 @@
 {
     "detectorInfo":[
         {
-            "DET_ID":"growth-fy2016e"
+            "DET_ID":"growth-tac019"
         },
         {
-            "OBS_SITE":"Kanazawa University"
+            "OBS_SITE":"Sakaida Fruit"
         },
         {
-            "DET_CH0":"BGO"
+            "DET_CH0":"CsI"
         },
         {
             "DET_CH1":"NONE"
